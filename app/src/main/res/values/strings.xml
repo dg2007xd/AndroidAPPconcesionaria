@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Loki</string>
+    <string name="title_activity_empezar">EmpezarActivity</string>
+    <string name="empezar">Empezar</string>
+    <string name="logo">Logotipo de la aplicación</string>
+
+    <!-- MainActivity -->
+    <string name="frase">Vine vì y vencì</string>
+    <string name="autor">Julio Cèsar</string>
+    <string name="derechos">2026 Todos los derechos reservados</string>
+
+    <!-- EmpezarActivity -->
+    <string name="empezar_subtitulo">El Centro Comercial en tu bolsillo</string>
+    <string name="empezar_contenido">¡Te damos la bienvenida a tu nuevo espacio de compras! Descubre miles de productos exclusivos, ofertas diarias irresistibles y envíos rápidos hasta tu puerta. Explora tus marcas favoritas, llena tu carrito y disfruta de una experiencia única, segura y sin complicaciones.</string>
+    <string name="terminos">Tèrminos</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="title_activity_terminos">TerminosActivity</string>
+    <string name="title_activity_inicio">InicioActivity</string>
+
+    <!-- TerminosActivity -->
+    <string name="terminos_condiciones">Términos y condiciones</string>
+    <string name="texto_terminos">
+        "El presente documento regula el acceso y uso de la aplicación móvil de comercio electrónico de titularidad de Loki S.A.C., sociedad debidamente constituida bajo las leyes de la República del Perú, identificada con RUC N° 20609874512, con domicilio fiscal en Av. Las Camelias N° 780, Oficina 502, distrito de San Isidro, provincia y departamento de Lima, y correo de atención contacto@loki.com.pe. Toda persona que descargue, instale, navegue o realice compras a través de esta plataforma adquiere la condición de usuario, declarando conocer y aceptar de manera íntegra, previa y expresa los presentes Términos y Condiciones, los cuales tienen carácter vinculante conforme a la legislación nacional vigente.
+
+Para adquirir bienes mediante la aplicación de Loki, el usuario debe contar con plena capacidad de ejercicio conforme a lo establecido en el Código Civil peruano, siendo requisito indispensable ser mayor de 18 años. Al registrarse, el usuario asume el compromiso de proporcionar información verídica, vigente y completa, custodiando bajo su exclusiva responsabilidad la confidencialidad de su cuenta y clave de acceso; en consecuencia, toda transacción u orden de compra efectuada mediante las credenciales registradas se presumirá realizada directamente por el titular de la misma.
+
+En estricto cumplimiento de la Ley N° 29733, Ley de Protección de Datos Personales, y su Reglamento, los datos personales suministrados serán incorporados en el banco de datos de titularidad de Loki S.A.C. denominado "Usuarios y Clientes", inscrito ante la Autoridad Nacional de Protección de Datos Personales, con la finalidad exclusiva de gestionar los pedidos, la facturación electrónica, el despacho y la atención postventa. La remisión de publicidad o promociones comerciales requerirá el consentimiento previo e inequívoco del cliente, quien podrá ejercer en todo momento sus derechos ARCO enviando una solicitud formal a privacidad@loki.com.pe.
+
+En observancia del principio de veracidad e idoneidad consagrado en el Código de Protección y Defensa del Consumidor, Ley N° 29571, Loki exhibe las características, especificaciones técnicas, imágenes y disponibilidad de inventario de forma clara y accesible. Todos los precios exhibidos en la aplicación están expresados en moneda nacional (Soles - PEN) e incluyen el Impuesto General a las Ventas (IGV); cualquier recargo adicional por concepto de costo de envío, embalaje especial o comisiones aplicables se detallará de manera previa y transparente antes de la confirmación y pago de la orden.
+
+El servicio de despacho de pedidos cubre zonas delimitadas de Lima Metropolitana y las principales ciudades del Perú, cobertura que se valida automáticamente al ingresar la dirección de destino durante la compra. Los plazos estimados de entrega se computan a partir de la confirmación bancaria del pago y la emisión del comprobante electrónico respectivo, debiendo recibirse el paquete por una persona mayor de edad mediante la exhibición de su Documento Nacional de Identidad (DNI) o Carné de Extranjería y la suscripción de la constancia de conformidad correspondiente.
+
+Conforme al marco legal peruano de protección al consumidor, el cliente podrá solicitar el cambio del bien o la restitución del monto abonado si este presenta vicios ocultos, defectos de fábrica o falta de correspondencia con lo solicitado, dentro de un plazo máximo de siete días calendario posteriores a la entrega. Para hacer efectiva dicha garantía, el artículo no debe mostrar indicios de mal uso, desgaste injustificado ni manipulación indebida, debiendo conservar sus empaques originales, manuales, accesorios y el comprobante de pago digital emitido por la empresa.
+
+En cumplimiento del Decreto Supremo N° 011-2011-PCM, Loki pone a disposición en la aplicación el acceso permanente al Libro de Reclamaciones Virtual, permitiendo asentar quejas o reclamos formales con recepción de constancia inmediata y garantizando respuesta motivada dentro del plazo legal de quince días hábiles improrrogables. Cualquier controversia, discrepancia o reclamación derivada de la interpretación o ejecución de este contrato se someterá a la competencia administrativa del Indecopi y, en su defecto, a la jurisdicción de los jueces y tribunales del distrito judicial del Cercado de Lima."
+    </string>
+
+    <string name="aceptar_continuar">Aceptar y continuar</string>
+    <string name="volver">Volver</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+
+
+    <!-- ====================================================== -->
+    <!-- PANTALLA 4: DASHBOARD / INICIO                         -->
+    <!-- ====================================================== -->
+    <string name="dashboard_welcome_kicker">BIENVENIDO</string>
+    <string name="dashboard_quote">Grandes negocios,\nmejores personas</string>
+
+
+    <string name="dashboard_item_providers_title">Proveedores</string>
+    <string name="dashboard_item_providers_desc">Gestiona tus proveedores y compras.</string>
+
+
+    <string name="dashboard_item_employees_title">Empleados</string>
+    <string name="dashboard_item_employees_desc">Administra tu equipo de trabajo.</string>
+
+
+    <string name="dashboard_item_oficinas_title">Oficinas</string>
+    <string name="dashboard_item_oficinas_desc">Administra tu equipo de trabajo.</string>
+
+
+    <string name="dashboard_item_store_title">Tienda</string>
+    <string name="dashboard_item_store_desc">Explora y administra tus productos.</string>
+
+
+    <string name="dashboard_item_clients_title">Clientes</string>
+    <string name="dashboard_item_clients_desc">Gestiona tu base de clientes.</string>
+
+    <string name="dashboard_item_offices_title">Oficinas</string>
+    <string name="dashboard_item_offices_desc">Sedes en todo el mundo.</string>
+
+
+    <string name="dashboard_item_logout_title">Salir</string>
+    <string name="dashboard_item_logout_desc">Cierra tu sesión de forma segura.</string>
+
+    <string name="dashboard_item_expenses_title">Gastos</string>
+    <string name="dashboard_item_expenses_desc">Mira cuanto gastaste.</string>
+
+    <string name="dashboard_item_reports_title">Reportes</string>
+    <string name="dashboard_item_reports_desc">Analiza el desempeño de tu negocio.</string>
+
+
+    <string name="dashboard_greeting">¡Hola, David!</string>
+    <string name="dashboard_welcome_back">Bienvenido de nuevo</string>
+
+    <string name="bottom_nav_home">Inicio</string>
+    <string name="bottom_nav_store">Tienda</string>
+    <string name="bottom_nav_cart">Carrito</string>
+    <string name="bottom_nav_more">Más</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+
+    <string name="login_back">Volver</string>
+
+    <string name="login_title">Iniciar sesión</string>
+    <string name="login_subtitle">Accede a tu cuenta para continuar</string>
+
+    <string name="login_email">Correo electrónico</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_show_password">Mostrar u ocultar contraseña</string>
+
+    <string name="login_remember">Recordar sesión</string>
+    <string name="login_forgot">¿Olvidaste tu contraseña?</string>
+
+    <string name="login_button">Iniciar sesión</string>
+    <string name="login_guest">Continuar como invitado</string>
+
+    <string name="login_no_account">¿No tienes cuenta?</string>
+    <string name="login_register">Regístrate</string>
+
+    <string name="login_terms_intro">Al iniciar sesión aceptas nuestros</string>
+    <string name="title_activity_perfil">PerfilActivity</string>
+    <string name="title_activity_proveedores">ProveedoresActivity</string>
+
+</resources>
